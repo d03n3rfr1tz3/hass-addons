@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Addons-Repo by Dirk Sarodnick
+url: 'https://github.com/d03n3rfr1tz3/hass-addons'
+maintainer: Dirk Sarodnick
